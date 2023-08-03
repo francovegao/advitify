@@ -1,0 +1,70 @@
+[03-Aug-2023 09:39:21 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'advitify.pet' doesn't exist in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\inc\Utility\PDOService.class.php:85
+Stack trace:
+#0 C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\inc\Utility\PDOService.class.php(85): PDOStatement->execute()
+#1 C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\inc\Utility\PetClassDAO.class.php(62): PDOService->execute()
+#2 C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\userProfile.php(30): PetCLassDAO::getUserPets('1')
+#3 {main}
+  thrown in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\inc\Utility\PDOService.class.php on line 85
+[03-Aug-2023 09:39:35 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'advitify.pet' doesn't exist in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\inc\Utility\PDOService.class.php:85
+Stack trace:
+#0 C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\inc\Utility\PDOService.class.php(85): PDOStatement->execute()
+#1 C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\inc\Utility\PetClassDAO.class.php(62): PDOService->execute()
+#2 C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\userProfile.php(30): PetCLassDAO::getUserPets('1')
+#3 {main}
+  thrown in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\inc\Utility\PDOService.class.php on line 85
+[03-Aug-2023 09:39:36 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'advitify.pet' doesn't exist in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\inc\Utility\PDOService.class.php:85
+Stack trace:
+#0 C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\inc\Utility\PDOService.class.php(85): PDOStatement->execute()
+#1 C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\inc\Utility\PetClassDAO.class.php(62): PDOService->execute()
+#2 C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\userProfile.php(30): PetCLassDAO::getUserPets('1')
+#3 {main}
+  thrown in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\inc\Utility\PDOService.class.php on line 85
+[03-Aug-2023 09:49:08 Europe/Berlin] PHP Warning:  require_once(inc/Entity/Clients.class.php): Failed to open stream: No such file or directory in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\TeamNumber11.php on line 4
+[03-Aug-2023 09:49:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'inc/Entity/Clients.class.php' (include_path='C:\xampp\php\PEAR') in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\TeamNumber11.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\TeamNumber11.php on line 4
+[03-Aug-2023 09:49:10 Europe/Berlin] PHP Warning:  require_once(inc/Entity/Clients.class.php): Failed to open stream: No such file or directory in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\TeamNumber11.php on line 4
+[03-Aug-2023 09:49:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'inc/Entity/Clients.class.php' (include_path='C:\xampp\php\PEAR') in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\TeamNumber11.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\TeamNumber11.php on line 4
+[03-Aug-2023 09:49:17 Europe/Berlin] PHP Warning:  require_once(inc/Entity/Clients.class.php): Failed to open stream: No such file or directory in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\userLogout.php on line 4
+[03-Aug-2023 09:49:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'inc/Entity/Clients.class.php' (include_path='C:\xampp\php\PEAR') in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\userLogout.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\userLogout.php on line 4
+[03-Aug-2023 09:49:18 Europe/Berlin] PHP Warning:  require_once(inc/Entity/Clients.class.php): Failed to open stream: No such file or directory in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\userProfile.php on line 4
+[03-Aug-2023 09:49:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'inc/Entity/Clients.class.php' (include_path='C:\xampp\php\PEAR') in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\userProfile.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\userProfile.php on line 4
+[03-Aug-2023 09:49:33 Europe/Berlin] PHP Warning:  require_once(inc/Entity/Clients.class.php): Failed to open stream: No such file or directory in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\userProfile.php on line 4
+[03-Aug-2023 09:49:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'inc/Entity/Clients.class.php' (include_path='C:\xampp\php\PEAR') in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\userProfile.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\userProfile.php on line 4
+[03-Aug-2023 09:50:17 Europe/Berlin] PHP Warning:  require_once(inc/Entity/Clients.class.php): Failed to open stream: No such file or directory in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\userProfile.php on line 4
+[03-Aug-2023 09:50:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'inc/Entity/Clients.class.php' (include_path='C:\xampp\php\PEAR') in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\userProfile.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\userProfile.php on line 4
+[03-Aug-2023 09:53:53 Europe/Berlin] PHP Warning:  require_once(inc/Entity/Clients.class.php): Failed to open stream: No such file or directory in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\TeamNumber11.php on line 4
+[03-Aug-2023 09:53:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'inc/Entity/Clients.class.php' (include_path='C:\xampp\php\PEAR') in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\TeamNumber11.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\TeamNumber11.php on line 4
+[03-Aug-2023 09:54:31 Europe/Berlin] PHP Warning:  require_once(inc/Entity/Clients.class.php): Failed to open stream: No such file or directory in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\register.php on line 8
+[03-Aug-2023 09:54:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'inc/Entity/Clients.class.php' (include_path='C:\xampp\php\PEAR') in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\register.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\register.php on line 8
+[03-Aug-2023 10:40:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "LoginManager" not found in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\listConsultants.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\listConsultants.php on line 16
+[03-Aug-2023 10:45:10 Europe/Berlin] PHP Warning:  require_once(inc/Entity/Clients.class.php): Failed to open stream: No such file or directory in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\register.php on line 8
+[03-Aug-2023 10:45:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'inc/Entity/Clients.class.php' (include_path='C:\xampp\php\PEAR') in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\register.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\Users\favo05\Documents\Douglas College\Software Engineering\phpProject\Project\register.php on line 8
